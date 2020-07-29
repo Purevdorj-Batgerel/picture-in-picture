@@ -41,7 +41,7 @@ const track = {
       type: 'image/png',
     },
   ],
-},
+};
 
 function onPlayButtonClick() {
   playAudio();
